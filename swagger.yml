@@ -1,0 +1,12 @@
+consumes:
+- application/json
+info:
+  description: A Simple Proxy Service
+  title: ProxyService
+  version: 0.1.0
+paths: {}
+produces:
+- application/json
+schemes:
+- http
+swagger: "2.0"
